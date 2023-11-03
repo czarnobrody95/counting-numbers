@@ -1,0 +1,20 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+  font-size: 200px;
+  text-align: center;
+  background-color: green; /* Zielone tło */
+}
+
+.counter-container {
+  position: relative;
+  display: inline-block;
+}
+
+.counter {
+  position: center;
+  top: 500px;
+  left: 0;
+  opacity: 1;
+  color: white; /* Biały kolor czcionki */
+}
